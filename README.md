@@ -1,4 +1,4 @@
-# spartkStudy
+# sparkStudy
 
 1. Apache Spark is an open-source big data processing framework that is used for storing, processing, and analyzing large amounts of data.
 
